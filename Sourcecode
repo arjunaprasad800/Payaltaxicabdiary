@@ -1,0 +1,37 @@
+// This is a simple project made by using KOTLIN which is a program to get taxi cab income in a simplistic way//
+
+***Source Code***
+
+import os
+import sys
+
+var global: input.local=()
+@local diary
+fun main(){
+    var name = String()
+    val name = 1
+    name = True
+    if var name == val name {
+        println("Proceed")
+
+    }
+    else{
+        println("Error")
+    }
+    Start_point= String()
+    End_point = String()
+    distance_km = int()
+    fare = int()
+    fare_percentage = int(distance_km*100/fare)
+    incremental_fare= sum(fare+fare_percentage)
+    if distance_km > 2000{
+
+        println("10% incrementation")
+        println(incremental_fare)
+    }
+    else {
+        println("Regular fare")
+    }
+}
+@local
+
